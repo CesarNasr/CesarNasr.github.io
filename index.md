@@ -1,8 +1,8 @@
-## Cesar Nasr
+## My Recent Work
 
 ---
 
-### Category Name 1 
+### Mobile Apps
 
 [Parking Reservation App](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
