@@ -4,7 +4,7 @@
 
 ### Mobile Apps
 
-[Parking Reservation App](/sample_page)
+[Parking Reservation Appzzz](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
