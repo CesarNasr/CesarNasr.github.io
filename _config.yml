@@ -1,7 +1,8 @@
 title: Cesar Nasr # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <b> Mobile Developer </b>
+  <marquee>
+  <b> Mobile Developer </b>
   <br>
   Experienced Android & Flutter Developer with a demonstrated history of working in the computer software industry. Skilled in Kotlin,Java, Mobile Applications, Dart and Quality Assurance. Good in SQL , PHP and web development. Strong engineering professional with a Bachelor of Science (BS) focused in Computer Science  
   <br><br>
@@ -14,6 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/cesar-nasr-32209bb9/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://github.com/CesarNasr">View My Github Profile</a> 
+  </marquee>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
