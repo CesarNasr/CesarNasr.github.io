@@ -9,14 +9,12 @@ Passionate and experienced Android & Flutter Developer with a demonstrated histo
 ### Mobile Apps
 
 [Parking Reservation Appzzz](/sample_page)
-<img src="images/parking1.jpg?raw=true"/>
-<img src="images/parking2.jpg?raw=true"/>
-<img src="images/parking3.jpg?raw=true"/>
-<img src="images/parking4.jpg?raw=true"/>
-<img src="images/parking5.jpg?raw=true"/>
-<img src="images/parking6.jpg?raw=true"/>
-<img src="images/parking7.jpg?raw=true"/>
-<img src="images/parking8.jpg?raw=true"/>
+<video width="320" height="240" controls>
+  <source src="images/parking_vid.mp4" type="video/mp4">
+<!--   <source src="movie.ogg" type="video/ogg"> -->
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
