@@ -35,9 +35,6 @@ Technologies used : Flutter SDK - Dart Language - Flutter bloc library
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
 
----
-
-
-
-
----
+<!--   navigating to a page
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
