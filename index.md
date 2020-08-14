@@ -9,15 +9,22 @@ Passionate and experienced Android & Flutter Developer with a demonstrated histo
 ### Mobile Apps
 
 [Parking Reservation Appzzz](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/parking1.jpg?raw=true"/>
+<img src="images/parking2.jpg?raw=true"/>
+<img src="images/parking3.jpg?raw=true"/>
+<img src="images/parking4.jpg?raw=true"/>
+<img src="images/parking5.jpg?raw=true"/>
+<img src="images/parking6.jpg?raw=true"/>
+<img src="images/parking7.jpg?raw=true"/>
+<img src="images/parking8.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
