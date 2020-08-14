@@ -9,12 +9,7 @@ Passionate and experienced Android & Flutter Developer with a demonstrated histo
 ### Mobile Apps
 
 [Parking Reservation Appzzz](/sample_page)
-<video width="320" height="240" controls>
-  <source src="images/parking_vid.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDtffuf7VK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
