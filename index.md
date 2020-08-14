@@ -3,7 +3,7 @@
 Passionate and experienced Android & Flutter Developer with a demonstrated history of working in the computer software industry. Skilled in Kotlin,Java, Mobile Applications, Dart and Quality Assurance. Good in SQL , PHP and web development. Strong engineering professional with a Bachelor of Science (BS) focused in Computer Science
 
 ## My Recent Work
-For more of my work, please check my Resume -> Projects -> Android Perojects
+_For more of my work, please [View My Resume](https://drive.google.com/file/d/1YHJg1ezZb0fkkGMVxZHKZKNVHS0gsP8s/view) -> Projects _
 
 ---
 
