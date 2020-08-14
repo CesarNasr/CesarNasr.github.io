@@ -3,16 +3,14 @@
 Passionate and experienced Android & Flutter Developer with a demonstrated history of working in the computer software industry. Skilled in Kotlin,Java, Mobile Applications, Dart and Quality Assurance. Good in SQL , PHP and web development. Strong engineering professional with a Bachelor of Science (BS) focused in Computer Science
 
 ## My Recent Work
+For more of my work, please check my Resume -> Projects -> Android Perojects
 
 ---
 
 ### Mobile Apps
 
-[Parking Reservation Appzzz](/sample_page)
+[Parking Reservation App](https://github.com/CesarNasr/NearbyParking)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDtffuf7VK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<object width="425" height="344" data="https://www.youtube.com/embed/N4koEPJ0bjU"></object>
-
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
