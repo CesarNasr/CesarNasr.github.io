@@ -11,7 +11,7 @@ Passionate and experienced Android & Flutter Developer with a demonstrated histo
 [Parking Reservation Appzzz](/sample_page)
 <video width="320" height="240" controls>
   <source src="images/parking_vid.mp4" type="video/mp4">
-<!--   <source src="movie.ogg" type="video/ogg"> -->
+  <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 
